@@ -13,6 +13,7 @@ The usuful links to review the trend of LLMs are listed here.
 
 ## Introduction of LLM Technologies
 * [Introduction to Large Language Models and the Transformer Architecture](https://www.linkedin.com/pulse/introduction-large-language-models-transformer-pradeep-menon/)
+* [RLHF for Large Language Models](https://scale.com/rlhf?utm_location=9033288&utm_source=google&utm_medium=paid-search&utm_campaign=19641276895&utm_term=llm&hsa_acc=8100071054&hsa_cam=19641276895&hsa_grp=146116098415&hsa_ad=646742092266&hsa_src=g&hsa_tgt=kwd-350091618927&hsa_kw=llm&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gad=1&gclid=Cj0KCQjwu-KiBhCsARIsAPztUF2CCJ0N73Hti491diYhYGEyHYheYBd2MyftDUM3EHI0cz5meY1r6KEaAnHFEALw_wcB)
 
 ## Most Recent LLMs
 * [MPT-7B](https://www.mosaicml.com/blog/mpt-7b?utm_source=pocket_saves)
